@@ -1,4 +1,7 @@
 # Property-Price-Prediction
+<p align="center">
+  <img width="460" height="300" src="https://github.com/ritikkr/Property-Price-Prediction/blob/main/index.jpeg">
+</p>
 A Machine Learning project to predict the price of a property.
 Here I'm using dataset of " Boston Housing Data " 
 1. Title: Boston Housing Data
